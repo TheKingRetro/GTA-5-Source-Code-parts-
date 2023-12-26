@@ -1,0 +1,4 @@
+Partes del códico fuente de GTAV. 
+(NO ME HAGO RESPONSABLE DEL USO)
+
+HACKED BY KINGRETRO
