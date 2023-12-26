@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+C:\Users\eljoy\Desktop\GTAV SOURCE CODE BY KINGRETRO\GTA V Ultimatum Source_Code_By_Kingretro\GTA V Ultimatum\stdafx.h(35,10): error C1083: No se puede abrir el archivo incluir: 'CommonStates.h': No such file or directory
+  (compilando archivo de origen "stdafx.cpp")
+  
